@@ -1,30 +1,30 @@
 
-OpenOffice.org Spelling and Hyphenation
+LibreOffice Spelling and Hyphenation
 extension package for Serbian (Cyrillic and Latin)
 
-Created by the Serbian OpenOffice.org community. For the licensing terms see
-the included text in the registration/ directory. Learn more about Serbian OOo
-native-language project at http://sr.openoffice.org
+Created by the Serbian LibreOffice community. For the licensing terms see
+the included text in the registration/ directory. Learn more about Serbian
+LibreOffice native-language project at http://sr.libreoffice.org
 
 The extension package is based on the Hunspell dictionary and Hyphen
 hyphenation patterns for the Serbian language. Serbian Hyphen Hyphenation
 patterns are derived from TeX Serbocroatian patterns created by Dejan 
 Muhamedagic.
 
-Visit http://openoffice.rs/dict-sr/ to see more options on licensing terms for
-the individual items included in this extension package. Please send your
-suggestions and other contributions to the dev@sr.openoffice.org public mailing
-list (http://sr.openoffice.org/servlets/SummarizeList?listName=dev)
+Visit http://sr.libreoffice.org/dict-sr/ to see more options on licensing terms
+for the individual items included in this extension package. Please send your
+suggestions and other contributions to the proverapisanja@googlegroups.com
+public mailing list (http://groups.google.com/group/proverapisanja)
 
-You can watch development at http://gitorious.org/dict-sr/dict-sr-oxt
+You can watch development at https://github.com/grakic/dict-sr-oxt
 
 
-  dict-sr Copyright (c) 2010  Goran Rakic <grakic@devbase.net>
+  dict-sr Copyright (c) 2013  Goran Rakic <grakic@devbase.net>
 
   with the contributions by   Milos Popovic       <gpopac@gmail.com>
                               Aleksandar Urosevic <urke.dd@urosevic.net>
 
 Submodule repositories
-  Hunspell dictionary:        http://gitorious.org/dict-sr/hunspell-sr
-  Hyphen patterns:            http://gitorious.org/dict-sr/hyphen-sr
+  Hunspell dictionary:        https://github.com/grakic/hunspell-sr
+  Hyphen patterns:            https://github.com/grakic/hyphen-sr
 

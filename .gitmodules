@@ -1,6 +1,6 @@
 [submodule "hunspell-sr"]
 	path = hunspell-sr
-	url = git@gitorious.org:dict-sr/hunspell-sr.git
+	url = git@github.com:grakic/hunspell-sr.git
 [submodule "hyphen-sr"]
 	path = hyphen-sr
-	url = git@gitorious.org:dict-sr/hyphen-sr.git
+	url = git@github.com:grakic/hyphen-sr.git
