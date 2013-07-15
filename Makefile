@@ -7,7 +7,7 @@ dict: clean description.xml
 	mv build/dict-sr.zip dict-sr.oxt
 
 description.xml: description.xml.in VERSION
-	sed -e 's/{VERSION}/`cat VERSION`/' < description.xml.in > description.xml
+	sed -e "s/{VERSION}/`cat VERSION`/" < description.xml.in > description.xml
 
 clean:
 	rm -fr build
